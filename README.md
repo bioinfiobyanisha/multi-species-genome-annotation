@@ -127,18 +127,23 @@ under the guidance of **Dr. Shailesh Sharma (Scientist F)**.
 ---
 
 ## Current Status
-✔ RNA-seq quality control completed  
-✔ Chromosome-level genome scaffolding validated  
-✔ Annotation files generated for multiple species  
-✔ Workflow ready for further expansion and downstream analysis  
+
+✔ Genome annotation and GTF/GFF3 generation completed for multiple livestock species (chicken, sheep, goat, pig)  
+✔ Chromosome-level genome assemblies successfully utilized where available  
+✔ Gene-level analysis performed to identify total, common, and species-specific genes  
+✔ Results systematically compiled into Excel datasets for interpretation  
+✔ UpSet plots generated to visualize gene overlaps across species  
+✔ A reusable multi-species genome annotation and analysis workflow established
 
 ---
 
 ## Future Work
-- Continue annotation for remaining genomes
-- Optimize Liftoff runs for resource efficiency
-- Perform downstream RNA-seq and comparative genomics analyses
-- Integrate results into biological interpretation
+
+• Extend genome annotation and comparative analysis to additional livestock species (cow, buffalo)  
+• Refine and optimize UpSet and other visualization methods for clearer interpretation  
+• Integrate downstream RNA-seq analysis with comparative genomics results  
+• Perform functional annotation and biological interpretation of common and species-specific genes  
+• Prepare the workflow and results for publication-quality analysis
 
 ---
 
