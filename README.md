@@ -6,7 +6,7 @@
 ### 1. Gene Count & Common/Specific Genes Analysis
 Run the following command after placing GTF files in the `data/` directory:
 
-```bash
+bash
 python scripts/gene_count.py
 
 ### Week-by-Week Bioinformatics Workflow (8 Weeks)
