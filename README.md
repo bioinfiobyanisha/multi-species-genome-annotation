@@ -84,6 +84,40 @@ under the guidance of **Dr. Shailesh Sharma (Scientist F)**.
 
 ---
 
+### Week 6 – Genome Annotation Expansion (25 January)
+
+- Generated GTF/GFF3 annotation files for all sheep breeds with available chromosome-level genome assemblies  
+- Completed reference-based annotation transfer for sheep genomes  
+- Generated GTF/GFF3 files for 10 goat breeds using goat reference FASTA and GTF files  
+- Prepared annotated datasets for downstream comparative analysis  
+
+---
+
+### Week 7 – Gene-Level Comparative Analysis (1 February)
+
+- Generated GTF files for 22 goat species  
+- Developed a custom Python script for gene-level analysis  
+- Performed:
+  - Total gene count calculation per species  
+  - Identification of common genes across species  
+  - Identification of breed/species-specific genes  
+  - Extraction and recording of gene names  
+- Compiled all outputs into structured Excel files  
+- Generated an UpSet plot to visualize total, common, and breed-specific gene distributions  
+
+---
+
+### Week 8 – Multi-Species Analysis & Visualization Refinement (7 February)
+
+- Generated GTF files for different goat breeds  
+- Performed gene count analysis for pig, identifying common and species-specific genes  
+- Organized all results into Excel datasets  
+- Generated an UpSet plot for gene overlap visualization  
+- Identified limitations in the current visualization and initiated refinement  
+- Extended the workflow to sheep and goat comparative analysis  
+- Initiated GTF file generation for cow and buffalo datasets
+---
+
 ## Key Outcomes
 - Established a complete RNA-seq preprocessing and genome annotation workflow
 - Generated GTF/GFF3 files for multiple chicken and sheep breeds
